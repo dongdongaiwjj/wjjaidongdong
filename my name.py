@@ -5,3 +5,4 @@ print("my name is dongdong")
 print("my name is dongdong","nothing","hahaha")
 i=0
 print(i)
+# first day
